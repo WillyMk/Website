@@ -1,0 +1,52 @@
+.midterm{
+    text-align: center;
+    justify-content: center;
+    background-image: url("h.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.midterm h1{
+    color: red;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.midterm h2{
+    color: #fff;
+}
+.midterm p{
+    color: #fff;
+}
+.midterm ul{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+.tables h3{
+    color: red;
+    font-size: 20px;
+}
+.table{
+    margin-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.link{
+    color: #fff;
+    cursor: pointer;
+}
+.link:hover{
+    color: blue;
+}
+.img img{
+    width: 50vh;
+    height: 30vh;
+    text-align: center;
+    justify-content: center;
+    background-position: center;
+    margin-bottom: 3rem;
+}

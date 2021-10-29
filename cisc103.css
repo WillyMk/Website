@@ -1,0 +1,21 @@
+.midterm{
+    text-align: center;
+    justify-content: center;
+    background-image: url("dark.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.midterm h1{
+    color: red;
+}
+.midterm h2{
+    color: #fff;
+}
+.midterm p{
+    color: #fff;
+}
+.link{
+    color: blue;
+    cursor: pointer;
+}
